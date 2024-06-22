@@ -1,0 +1,15 @@
+{
+  "name": "mini-react",
+  "version": "1.0.0",
+  "description": "一个迷你react实现， 实现了解析jsx， render，useState, useEffect， 帮助你深入了解react的底层原理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.2"
+  }
+}
