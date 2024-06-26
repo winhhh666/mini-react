@@ -1,6 +1,6 @@
 # mini-react
 
-一个迷你 react 实现， 实现了解析 jsx， render，useState, useEffect， 帮助你深入了解 react 的底层原理
+一个迷你 react 实现， 实现了解析 jsx， render，useState, useEffect， 用浏览器的requestIdleCallback来实现模拟react调度器的效果并为了兼容性实现了这个api， 帮助你深入了解 react 的底层原理
 
 ##如何使用？
 
